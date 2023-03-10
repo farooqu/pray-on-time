@@ -1,2 +1,2 @@
-# prayer-on-time
-Salah times app
+# Pray On Time
+An app for Salah times for WearOS
